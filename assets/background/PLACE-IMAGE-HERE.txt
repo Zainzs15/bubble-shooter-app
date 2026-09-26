@@ -1,0 +1,2 @@
+The live background is game-background.png in this folder.
+Replace that file to change the picture. The game reads it from src/config/background.ts.

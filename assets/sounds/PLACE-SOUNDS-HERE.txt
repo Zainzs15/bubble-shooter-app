@@ -1,0 +1,1 @@
+Optional sound files can be registered from src/audio/SoundManager.ts.
